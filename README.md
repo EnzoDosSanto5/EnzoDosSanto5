@@ -1,5 +1,5 @@
 ## Hi there 👋
-me chamo Ribeiro dos Santos estou cursando terceiro ano do ensino médio esse é um trabalho do aluno
+me chamo Enzo Ribeiro dos Santos estou cursando terceiro ano do ensino médio esse é um trabalho do aluno
 
 <!--
 **EnzoDosSanto5/EnzoDosSanto5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
