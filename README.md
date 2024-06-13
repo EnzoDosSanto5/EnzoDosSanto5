@@ -2,10 +2,13 @@
 
 
 Enzo Ribeiro dos Santos
+
 17 anos 
+
 terceiro ano do ensino médio 
+
 rabalho do aluno 
-- 🔭 I’m currently working on ...
+
 
 <!--
 **EnzoDosSanto5/EnzoDosSanto5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
