@@ -3,11 +3,9 @@
 
 Enzo Ribeiro dos Santos
 
-17 anos 
+18 anos 
 
-terceiro ano do ensino médio 
-
-rabalho do aluno 
+são alguns trabalhos que foram feitos o meu ensino médio no alura terceiro ano do ensino médio 
 
 ![](https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=500&h=300&crop=1)
 
